@@ -1,0 +1,538 @@
+
+                                  ASHRALS LTD                          
+
+          12/13/2020            INVENTORY REPORT                       
+
+     VENDOR: CHICAGO                                                   
+
+  WAREHOUSE: BIRMINGHAM                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Pirate        LARGE        Adult       1    $    19.99       
+
+                        MEDIUM       Adult      10    $   199.90       
+
+                        SMALL        Adult      15    $   299.85       
+
+                        PLUS         Adult       5    $   124.95       
+
+                        LARGE        Child       1    $     9.99       
+
+                        SMALL        Child       1    $     9.99       
+
+                                           TOTAL:    $    664.67       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Wizard        LARGE        Adult      20    $   199.80       
+
+                        MEDIUM       Adult      90    $   899.10       
+
+                        SMALL        Adult      35    $   349.65       
+
+                        PLUS         Adult      46    $   689.54       
+
+                        LARGE        Child      20    $   199.80       
+
+                        SMALL        Child      20    $   199.80       
+
+                                           TOTAL:    $  2,537.69       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Cat           MEDIUM       Adult      45    $   269.55       
+
+                        LARGE        Child     100    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $    269.55       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Chef          BAD--        Adult      15    $   224.85       
+
+                        MEDIUM       Adult      15    $   224.85       
+
+                        SMALL        Adult     150    $ 2,248.50       
+
+                        PLUS         Adult      27    $   539.73       
+
+                        LARGE        Child      15    $   149.85       
+
+                        SMALL        Child      15    $   149.85       
+
+                                           TOTAL:    $  3,537.63       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Vampire       LARGE        Adult     125    $ 4,498.75       
+
+                        MEDIUM       Adult      75    $ 2,699.25       
+
+                        SMALL        Adult      25    $   899.75       
+
+                        PLUS         Adult     110    $ 5,058.90       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $ 13,156.65       
+
+              TOTAL FOR WAREHOUSE:  BIRMINGHAM     $   20,166.19       
+
+  WAREHOUSE: HUNTSVILLE                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Knight        LARGE        Adult      17    $   509.83       
+
+                        MEDIUM       Adult      18    $   539.82       
+
+                        SMALL        Adult       0    $     0.00       
+
+                        PLUS         Adult     125    $ 4,998.75       
+
+                        LARGE        Child       6    $    89.94       
+
+                        SMALL        Child       3    $    44.97       
+
+                                           TOTAL:    $  6,183.31       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          T-Rex         LARGE        Adult       3    $    77.97       
+
+                        MEDIUM       Adult       3    $    77.97       
+
+                        SMALL        Adult       3    $    77.97       
+
+                        LARGE        Child       3    $    59.97       
+
+                        SMALL        Child       3    $    59.97       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $    353.85       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Chef          LARGE        Adult       4    $    59.96       
+
+                        MEDIUM       Adult       4    $    59.96       
+
+                        SMALL        Adult       4    $    59.96       
+
+                        PLUS         Adult       4    $    59.96       
+
+                        BAD--        Child       4    $    39.96       
+
+                        SMALL        Child       4    $    39.96       
+
+                                           TOTAL:    $    319.76       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          AxeMurder     LARGE        Adult      20    $   119.80       
+
+                        MEDIUM       Adult      20    $   119.80       
+
+                        SMALL        Adult      20    $   119.80       
+
+                        PLUS         Adult      20    $   119.80       
+
+                        LARGE        Child      20    $   119.80       
+
+                        SMALL        Child      20    $   119.80       
+
+                                           TOTAL:    $    718.80       
+
+              TOTAL FOR WAREHOUSE:  HUNTSVILLE     $    7,575.72       
+
+                 TOTAL FOR VENDOR:  CHICAGO       $    27,741.91       
+                                  ASHRALS LTD                          
+
+          12/13/2020            INVENTORY REPORT                       
+
+     VENDOR: LOS ANGELES                                               
+
+  WAREHOUSE: BIRMINGHAM                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Knight        LARGE        Adult     225    $ 8,997.75       
+
+                        MEDIUM       Adult     225    $ 8,997.75       
+
+                        SMALL        Adult     225    $ 8,997.75       
+
+                        PLUS         Adult     225    $11,247.75       
+
+                        LARGE        Child     225    $ 3,372.75       
+
+                        SMALL        Child     225    $ 3,372.75       
+
+     VENDOR: LOS ANGELES                                               
+
+  WAREHOUSE: BIRMINGHAM                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Fairy         LARGE        Adult     325    $ 5,196.75       
+
+                        MEDIUM       Adult     325    $ 5,196.75       
+
+                        SMALL        Adult     325    $ 5,196.75       
+
+                        PLUS         Adult     325    $ 6,496.75       
+
+                        LARGE        Child     325    $ 2,921.75       
+
+                        SMALL        Child     325    $ 2,921.75       
+
+                                           TOTAL:    $ 72,917.00       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Wizard        LARGE        Adult     400    $ 7,996.00       
+
+                        MEDIUM       Adult     400    $ 7,996.00       
+
+                        SMALL        Adult     400    $ 7,996.00       
+
+                        PLUS         Adult     400    $10,396.00       
+
+                        LARGE        Child     400    $ 3,996.00       
+
+                        SMALL        Child     400    $ 3,996.00       
+
+                                           TOTAL:    $ 42,376.00       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          T-Rex         LARGE        Adult     500    $14,995.00       
+
+                        MEDIUM       Adult       0    $     0.00       
+
+                        SMALL        Adult     500    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $ 14,995.00       
+
+              TOTAL FOR WAREHOUSE:  BIRMINGHAM     $  130,288.00       
+
+  WAREHOUSE: HUNTSVILLE                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Pirate        LARGE        Adult     125    $ 3,248.75       
+
+                        MEDIUM       Adult     125    $ 3,248.75       
+
+                        SMALL        Adult     125    $ 3,248.75       
+
+                        LARGE        Child     125    $ 2,498.75       
+
+                        SMALL        Child     125    $ 2,498.75       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $ 14,743.75       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          T-Rex         LARGE        Adult     425    $12,745.75       
+
+                        MEDIUM       Adult     425    $12,745.75       
+
+                        SMALL        Adult     425    $12,745.75       
+
+                        LARGE        Child     425    $11,045.75       
+
+                        SMALL        Child     425    $11,045.75       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $ 60,328.75       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Cat           LARGE        Adult     600    $ 5,994.00       
+
+                        SMALL        Child     600    $ 5,994.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $ 11,988.00       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Elf           LARGE        Adult     700    $11,193.00       
+
+                        MEDIUM       Adult     700    $11,193.00       
+
+                        SMALL        Adult     700    $11,193.00       
+
+                        PLUS         Adult     700    $ 6,993.00       
+
+                        LARGE        Child     700    $ 6,993.00       
+
+                        SMALL        Child     700    $ 6,993.00       
+
+                                           TOTAL:    $ 54,558.00       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          AxeMurder     LARGE        Adult     150    $ 1,498.50       
+
+                        MEDIUM       Adult     150    $ 1,498.50       
+
+                        SMALL        Adult     150    $ 1,498.50       
+
+                        LARGE        Child     150    $   898.50       
+
+                        SMALL        Child     150    $   898.50       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $  6,292.50       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Vampire       LARGE        Adult     200    $ 9,998.00       
+
+                        MEDIUM       Adult     200    $ 9,998.00       
+
+                        SMALL        Adult     200    $ 9,998.00       
+
+                        PLUS         Adult     200    $15,000.00       
+
+                        LARGE        Child     200    $ 7,198.00       
+
+                        SMALL        Child     200    $ 7,198.00       
+
+                                           TOTAL:    $ 59,390.00       
+
+              TOTAL FOR WAREHOUSE:  HUNTSVILLE     $  207,301.00       
+
+                 TOTAL FOR VENDOR:  LOS ANGELES   $   337,589.00       
+                                  ASHRALS LTD                          
+
+          12/13/2020            INVENTORY REPORT                       
+
+     VENDOR: NEW YORK                                                  
+
+  WAREHOUSE: BIRMINGHAM                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Wizard        LARGE        Adult     300    $ 4,797.00       
+
+                        MEDIUM       Adult     470    $ 7,515.30       
+
+                        SMALL        Adult     220    $ 3,517.80       
+
+                        PLUS         Adult     100    $ 1,999.00       
+
+                        LARGE        Child     150    $ 1,498.50       
+
+                        SMALL        Child     120    $ 1,198.80       
+
+     VENDOR: NEW YORK                                                  
+
+  WAREHOUSE: BIRMINGHAM                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Cat           LARGE        Adult      55    $   439.45       
+
+                        MEDIUM       Adult      62    $   495.38       
+
+                        SMALL        Adult      50    $   399.50       
+
+                        PLUS         Adult      90    $   899.10       
+
+                        LARGE        Child      45    $   269.55       
+
+                        SMALL        Child     125    $   748.75       
+
+                                           TOTAL:    $ 23,778.13       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Elf           LARGE        Adult     250    $ 1,497.50       
+
+                        MEDIUM       Adult     250    $ 1,497.50       
+
+                        SMALL        Adult     250    $ 1,497.50       
+
+                        LARGE        Child     250    $ 2,497.50       
+
+                        SMALL        Child     250    $ 2,497.50       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $  9,487.50       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Vampire       LARGE        Adult      90    $ 2,699.10       
+
+                        MEDIUM       Adult      90    $ 2,699.10       
+
+                        SMALL        Adult      90    $ 2,699.10       
+
+                        PLUS         Adult      90    $ 4,139.10       
+
+                        LARGE        Child      90    $ 1,799.10       
+
+                        SMALL        Child      90    $ 1,799.10       
+
+                                           TOTAL:    $ 15,834.60       
+
+              TOTAL FOR WAREHOUSE:  BIRMINGHAM     $   49,100.23       
+
+  WAREHOUSE: HUNTSVILLE                                                
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Knight        LARGE        Adult     150    $ 5,248.50       
+
+                        MEDIUM       Adult     175    $ 6,123.25       
+
+                        SMALL        Adult     675    $23,618.25       
+
+                        PLUS         Adult     150    $ 5,248.50       
+
+                        LARGE        Child     150    $ 5,248.50       
+
+                        SMALL        Child     150    $ 5,248.50       
+
+                                           TOTAL:    $ 50,735.50       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Wizard        LARGE        Adult     889    $14,215.11       
+
+                        MEDIUM       Adult     675    $10,793.25       
+
+                        SMALL        Adult     335    $ 5,356.65       
+
+                        PLUS         Adult     125    $ 3,248.75       
+
+                        LARGE        Child     305    $ 4,876.95       
+
+                        SMALL        Child      35    $   559.65       
+
+                                           TOTAL:    $ 39,050.36       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Chef          LARGE        Adult      51    $ 1,019.49       
+
+                        MEDIUM       Adult     455    $ 9,095.45       
+
+                        SMALL        Adult     251    $ 5,017.49       
+
+                        PLUS         Adult     127    $ 5,078.73       
+
+                        LARGE        Child     200    $ 1,998.00       
+
+                        SMALL        Child     261    $ 2,607.39       
+
+                                           TOTAL:    $ 24,816.55       
+
+
+          COSTUME       COSTUME    COSTUME   QTY IN     TOTAL          
+             NAME         SIZE       TYPE     STOCK      COST          
+
+          Vampire       MEDIUM       Adult     452    $13,555.48       
+
+                        SMALL        Adult     235    $ 7,047.65       
+
+                        PLUS         Adult     550    $27,494.50       
+
+                        LARGE        Child     825    $16,491.75       
+
+                        SMALL        Child     900    $17,991.00       
+
+                        BAD-                     0    $     0.00       
+
+                                           TOTAL:    $ 82,580.38       
+
+              TOTAL FOR WAREHOUSE:  HUNTSVILLE     $  197,182.79       
+
+                 TOTAL FOR VENDOR:  NEW YORK      $   246,283.02       
+
+                             GRAND TOTAL COST:   $    611,613.93       
